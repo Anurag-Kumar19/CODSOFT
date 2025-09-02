@@ -1,13 +1,37 @@
-The To-Do List app GUI features a clear, modern interface with a titled header, input field, list display, and simple Add/Delete buttons for easy task management.
+Internship Project Collection at Codsoft
 
+Welcome to my repository of Python GUI projects developed during my internship at Codsoft. These projects showcase hands-on experience with Python’s Tkinter library, featuring user-friendly interfaces and practical functionality.
 
-How It Works
+Projects Included
 
-Enter a task in the text field and click "Add Task" to append the item to the list with its own number.
+To-Do List App
 
-Select any task from the displayed list and click "Delete Task" to remove it instantly.
+A simple task management tool allowing users to add and delete tasks from a numbered list. The interface includes an input field, add/delete buttons, and a scrollable list display.
 
-The interface updates dynamically, allowing seamless task management throughout the session
+Calculator App
 
+A basic calculator supporting addition, subtraction, multiplication, and division with clear, backspace, and equals functions. It features a clean layout and real-time expression evaluation with error handling.
 
-<img width="623" height="784" alt="Screenshot 2025-09-02 172406" src="https://github.com/user-attachments/assets/785e09a1-92c6-44a0-afab-36fab45b6cbb" />
+Password Generator App
+
+Generates random secure passwords combining letters, numbers, and symbols based on user-specified length. The GUI is straightforward with input for length and a button to generate new passwords.
+
+Rock Paper Scissors Game
+
+An interactive game where users play Rock, Paper, Scissors against the computer. The app shows images for choices, declares winners, and tracks scores dynamically.
+
+Contact Book App
+
+A contact management system enabling users to add, update, delete, search, and view contacts with details like name, mobile, email, and address, all maintained in a user-friendly list interface.
+
+Features & Learnings
+
+Developed practical GUI applications with clear, intuitive interfaces
+
+Implemented core features like input validation, dynamic updates, and error handling
+
+Gained experience with event-driven programming in Python
+
+Applied creative solutions for real-world tasks like password security and contact management
+
+refrences

@@ -13,7 +13,7 @@ Gained experience with event-driven programming in Python
 Applied creative solutions for real-world tasks like password security and contact management
 
 refrences
-geeks for geeks, perplexity, python guides, google
+geeks for geeks, youtube, python guides, google
 
 Author
 Intern at Codsoft - Anurag Kumar

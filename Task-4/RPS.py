@@ -2,6 +2,7 @@ import random
 from tkinter import *
 
 root = Tk()
+root.title("Rock-paper-scissors")
 root.geometry("600x550")
 root.resizable(True, True)
 root['bg'] = "#ffccdc"
@@ -85,3 +86,4 @@ result_label = Label(root, text="", font=("Arial", 18), bg="#ffccdc", fg="black"
 result_label.pack(side="bottom", pady=30)
 
 root.mainloop()
+
